@@ -1,6 +1,6 @@
-#### Felica Enabler for Renoir
-Felica enable patch for M2101K9R users.
+# Japanese Model Xperia 1 FeliCa Module
+Japanese Model Xperia 1 FeliCa Enabler
+
 
 #### NOTICE
-
-do not add  any Felica apps into Deny List
+Do not add FeliCa App to DenyList.
